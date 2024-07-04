@@ -7,7 +7,7 @@
 ### https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 <br></br>
 ### Tableau Visualization Screenshot
-<img src="https://github.com/shreyash04/IBM-HR-Analytics/blob/main/HR%20Analytics%20Dashboard.png">
+<img src="HR Analytics Dashboard.png">
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
